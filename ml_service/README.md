@@ -1,5 +1,3 @@
-### 📄 `README.md`
-
 ```markdown
 # Predição de Alta vs Internação com BioBERT
 
@@ -113,4 +111,3 @@ Desenvolvido por **Matheus de Oliveira**
 
 ```
 
----
